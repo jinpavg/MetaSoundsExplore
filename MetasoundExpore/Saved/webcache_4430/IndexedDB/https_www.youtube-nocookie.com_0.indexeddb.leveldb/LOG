@@ -1,0 +1,6 @@
+2023/05/31-16:40:27.690 6b48 Creating DB C:/Users/alexv/Documents/unreal/MetasoundExpore/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/05/31-16:40:27.700 6b48 Reusing MANIFEST C:/Users/alexv/Documents/unreal/MetasoundExpore/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/31-16:57:18.160 6fd4 Level-0 table #5: started
+2023/05/31-16:57:18.176 6fd4 Level-0 table #5: 1167 bytes OK
+2023/05/31-16:57:18.179 6fd4 Delete type=0 #3
+2023/05/31-16:57:18.180 6fd4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
