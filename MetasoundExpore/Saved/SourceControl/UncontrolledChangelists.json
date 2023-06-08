@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/alexv/Documents/unreal/MetaSoundsExplore/MetasoundExpore/Content/Maps/DrumSynthMap.umap",
+				"C:/Users/alexv/Documents/unreal/MetaSoundsExplore/MetasoundExpore/Content/FirstPerson/Maps/DrumSynthMap.umap",
+				"C:/Users/alexv/Documents/unreal/MetaSoundsExplore/MetasoundExpore/Content/Maps/HuntMap.umap",
+				"C:/Users/alexv/Documents/unreal/MetaSoundsExplore/MetasoundExpore/Content/FirstPerson/Maps/HuntMap.umap",
 				"C:/Users/alexv/Documents/unreal/MetasoundExpore/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/alexv/Documents/unreal/MetasoundExpore/Content/MSS_Bomb.uasset",
 				"C:/Users/alexv/Documents/unreal/MetasoundExpore/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
